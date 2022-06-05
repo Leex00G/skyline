@@ -1,12 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Skyline</string>
     <!-- Common -->
-    <string name="search">Search</string>
+    <string name="search">搜索</string>
     <string name="error">An error has occurred</string>
     <!-- Toolbar Main -->
-    <string name="settings">Settings</string>
+    <string name="settings">设置</string>
     <string name="share_logs">Share Logs</string>
-    <string name="refresh">Refresh</string>
+    <string name="refresh">刷新</string>
     <!-- Toolbar - Share Logs -->
     <string name="log_share_prompt">Share log file</string>
     <string name="logs_not_found">No logs were created during the last run</string>
@@ -51,7 +51,7 @@
     <string name="import_keys_success">Successfully imported keys</string>
     <string name="import_keys_failed">Failed to import keys</string>
     <!-- Settings - Display -->
-    <string name="display">Display</string>
+    <string name="display">显示</string>
     <string name="force_triple_buffering">Force Triple Buffering</string>
     <string name="triple_buffering_enabled">Utilize at least three swapchain buffers (Higher FPS but more input lag)</string>
     <string name="triple_buffering_disabled">Utilize at least two swapchain buffers (Lower FPS but less input lag)</string>
@@ -63,7 +63,7 @@
     <string name="max_refresh_rate_disabled">Sets the display refresh rate to 60Hz</string>
     <string name="aspect_ratio">Aspect Ratio</string>
     <!-- Input -->
-    <string name="input">Input</string>
+    <string name="input">输入</string>
     <string name="osc">On-Screen Controls</string>
     <string name="osc_enable">Enable On-Screen Controls</string>
     <string name="osc_not_shown">On-Screen Controls won\'t be shown</string>
@@ -90,8 +90,8 @@
     <string name="confirm_button_again">Confirm choice by pressing a button again</string>
     <string name="builtin">Built-in</string>
     <string name="builtin_vibrator">Built-in Vibrator</string>
-    <string name="reset">Reset</string>
-    <string name="buttons">Buttons</string>
+    <string name="reset">重置</string>
+    <string name="buttons">按键</string>
     <string name="use_button_axis">Use any button or axis on a controller</string>
     <string name="release_confirm">Release to confirm selection</string>
     <string name="hold_confirm">Hold to confirm selection</string>
